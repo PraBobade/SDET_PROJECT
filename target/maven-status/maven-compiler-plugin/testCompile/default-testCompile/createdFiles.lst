@@ -1,0 +1,10 @@
+Utilities\Reporting.class
+TestCases\_001_TC_LoginPage.class
+Utilities\ReadConfig.class
+TestCases\_003_TC_AddNewCustomer.class
+TestCases\_00_BaseClass.class
+Utilities\XLUtils.class
+Utilities\excelFile.class
+TestCases\_002_TC_LoginPage.class
+PageObject\_02_AddNewCustomer.class
+PageObject\_01_LoginPage.class

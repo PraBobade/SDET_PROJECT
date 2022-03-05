@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Utilities.Reporting"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/LENOVO/IdeaProjects/SDET">
+        <classes>
+            <class name="TestCases._001_TC_LoginPage"/>
+            <class name="TestCases._002_TC_LoginPage"/>
+            <class name="TestCases._003_TC_AddNewCustomer"/>
+        </classes>
+    </test>
+</suite>

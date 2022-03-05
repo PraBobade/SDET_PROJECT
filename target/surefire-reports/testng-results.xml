@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-05T14:22:34 IST" name="All Test Suite" finished-at="2022-03-05T14:29:26 IST" duration-ms="412275">
+    <groups>
+    </groups>
+    <test started-at="2022-03-05T14:22:34 IST" name="C:/Users/LENOVO/IdeaProjects/SDET" finished-at="2022-03-05T14:29:26 IST" duration-ms="412275">
+      <class name="TestCases._001_TC_LoginPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases._001_TC_LoginPage@1ffaf86]" started-at="2022-03-05T14:22:34 IST" name="setup" finished-at="2022-03-05T14:23:18 IST" duration-ms="43768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginValidData()[pri:0, instance:TestCases._001_TC_LoginPage@1ffaf86]" started-at="2022-03-05T14:23:18 IST" name="LoginValidData" finished-at="2022-03-05T14:23:30 IST" duration-ms="12493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginValidData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases._001_TC_LoginPage@1ffaf86]" started-at="2022-03-05T14:23:30 IST" name="closeBrowser" finished-at="2022-03-05T14:23:32 IST" duration-ms="1118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases._001_TC_LoginPage -->
+      <class name="TestCases._002_TC_LoginPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:23:32 IST" name="setup" finished-at="2022-03-05T14:23:51 IST" duration-ms="19436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LogInDiffData(java.lang.String,java.lang.String)[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:23:52 IST" name="LogInDiffData" data-provider="LoginData" finished-at="2022-03-05T14:24:06 IST" duration-ms="13759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInDiffData -->
+        <test-method signature="LogInDiffData(java.lang.String,java.lang.String)[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:24:06 IST" name="LogInDiffData" data-provider="LoginData" finished-at="2022-03-05T14:24:31 IST" duration-ms="25084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr376767]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jEquhaj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInDiffData -->
+        <test-method signature="LogInDiffData(java.lang.String,java.lang.String)[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:24:31 IST" name="LogInDiffData" data-provider="LoginData" finished-at="2022-03-05T14:24:41 IST" duration-ms="10040" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr83460]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qAbUzyj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInDiffData -->
+        <test-method signature="LogInDiffData(java.lang.String,java.lang.String)[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:24:41 IST" name="LogInDiffData" data-provider="LoginData" finished-at="2022-03-05T14:24:51 IST" duration-ms="9516" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr137319]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bAdYvyb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInDiffData -->
+        <test-method signature="LogInDiffData(java.lang.String,java.lang.String)[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:24:51 IST" name="LogInDiffData" data-provider="LoginData" finished-at="2022-03-05T14:25:10 IST" duration-ms="19746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr376767]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jEquhaj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInDiffData -->
+        <test-method signature="LogInDiffData(java.lang.String,java.lang.String)[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:25:10 IST" name="LogInDiffData" data-provider="LoginData" finished-at="2022-03-05T14:28:26 IST" duration-ms="195652" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr112909]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tytUreg]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=99.0.4844.51)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-N330K14R', ip: '192.168.43.47', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d802013291f49abe530dc61dd30ed3be, clickElement {id=8e12ec19-740e-4e06-b7d7-0aea6e34cf8b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.51, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63692}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63692/devtoo..., se:cdpVersion: 99.0.4844.51, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (d802013291f49abe530dc61dd30ed3be)] -> name: btnLogin]
+Session ID: d802013291f49abe530dc61dd30ed3be]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=99.0.4844.51)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-N330K14R', ip: '192.168.43.47', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d802013291f49abe530dc61dd30ed3be, clickElement {id=8e12ec19-740e-4e06-b7d7-0aea6e34cf8b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.51, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63692}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63692/devtoo..., se:cdpVersion: 99.0.4844.51, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (d802013291f49abe530dc61dd30ed3be)] -> name: btnLogin]
+Session ID: d802013291f49abe530dc61dd30ed3be
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy16.click(Unknown Source)
+at PageObject._01_LoginPage.ClickLogin(_01_LoginPage.java:39)
+at TestCases._002_TC_LoginPage.LogInDiffData(_002_TC_LoginPage.java:24)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInDiffData -->
+        <test-method signature="LogInDiffData(java.lang.String,java.lang.String)[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:28:35 IST" name="LogInDiffData" data-provider="LoginData" finished-at="2022-03-05T14:28:44 IST" duration-ms="8886" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdkfsk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lsdjfks]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInDiffData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases._002_TC_LoginPage@1a942c18]" started-at="2022-03-05T14:28:44 IST" name="closeBrowser" finished-at="2022-03-05T14:28:46 IST" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases._002_TC_LoginPage -->
+      <class name="TestCases._003_TC_AddNewCustomer">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases._003_TC_AddNewCustomer@55a147cc]" started-at="2022-03-05T14:28:46 IST" name="setup" finished-at="2022-03-05T14:29:03 IST" duration-ms="17859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AddNewCustomer()[pri:0, instance:TestCases._003_TC_AddNewCustomer@55a147cc]" started-at="2022-03-05T14:29:03 IST" name="AddNewCustomer" finished-at="2022-03-05T14:29:25 IST" duration-ms="21391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewCustomer -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases._003_TC_AddNewCustomer@55a147cc]" started-at="2022-03-05T14:29:25 IST" name="closeBrowser" finished-at="2022-03-05T14:29:26 IST" duration-ms="1353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases._003_TC_AddNewCustomer -->
+    </test> <!-- C:/Users/LENOVO/IdeaProjects/SDET -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
